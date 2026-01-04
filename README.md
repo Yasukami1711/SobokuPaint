@@ -1,1 +1,1 @@
-# ImageEditor
+# SobokuPaint
